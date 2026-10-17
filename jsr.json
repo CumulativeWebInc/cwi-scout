@@ -2,5 +2,11 @@
   "name": "@cumulativeweb/cwi-scout",
   "version": "1.0.1",
   "license": "MIT",
-  "exports": "./dist/index.js"
+  "exports": "./dist/index.js",
+  "exclude": [
+    "package.json",
+    "package-lock.json",
+    "tsconfig.json",
+    "src/"
+  ]
 }
