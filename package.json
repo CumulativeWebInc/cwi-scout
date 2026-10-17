@@ -20,7 +20,7 @@
     "cwi",
     "langchain"
   ],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "main": "dist/index.js",
   "name": "@cumulativeweb/cwi-scout",
   "peerDependencies": {
