@@ -1,3 +1,4 @@
+/* @ts-self-types="./index.d.ts" */
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.cwiTools = exports.nowPlaying = exports.findTracks = void 0;
