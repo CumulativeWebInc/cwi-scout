@@ -1,6 +1,6 @@
 {
   "name": "@cumulativeweb/cwi-scout",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "exports": "./dist/index.js",
   "exclude": [
